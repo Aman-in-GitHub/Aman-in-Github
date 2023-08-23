@@ -14,8 +14,8 @@ I'm a web developer. I create websites that you can visit on the Internet.
 - Javascript
 - React
 - React Native
+- Firebase
 - Tailwind CSS
-- Framer Motion
 
 ## 🌍 Find Me
 
