@@ -7,7 +7,7 @@ I'm a software developer. I create software that you can use.
 
 ## 🚀 What Do I Do
 
-✨ I create the best websites in the world.
+✨ I create the best softwares in the world.
 
 ## 🛠️ Tech Stack
 
