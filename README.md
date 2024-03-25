@@ -3,7 +3,7 @@ _Learning Javascript since birth_
 
 ![](https://komarev.com/ghpvc/?username=Aman-in-Github&style=flat-square&color=6495ED&label=Profile+Views)
 
-I'm a web developer. I create websites that you can visit on the Internet.
+I'm a software developer. I create software that you can use.
 
 ## 🚀 What Do I Do
 
@@ -11,12 +11,15 @@ I'm a web developer. I create websites that you can visit on the Internet.
 
 ## 🛠️ Tech Stack
 
-- Javascript
+- TypeScript
 - React
+- Next JS
 - React Native
-- Node
-- Mongo DB
 - Tailwind CSS
+- Node JS
+- Postgres
+- Mongo DB
+- Realm DB
 
 <a href="https://github.com/Aman-in-GitHub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-in-GitHub&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -24,7 +27,7 @@ I'm a web developer. I create websites that you can visit on the Internet.
 
 When I'm not coding, I'm likely sleeping. 
 
-- **Portfolio:** https://amanchand.netlify.app
+- **Portfolio:** https://amanchand.com.np
 - **LinkedIn:** https://linkedin.com/in/amanchandinc
 - **Email:** amanchandinc@gmail.com
 
