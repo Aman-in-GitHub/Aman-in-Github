@@ -1,4 +1,5 @@
-I'm Aman🖐
+I'm Aman
+
 _Learning Javascript since birth_ 
 
 ![](https://komarev.com/ghpvc/?username=Aman-in-Github&style=flat-square&color=6495ED&label=Profile+Views)
