@@ -1,7 +1,5 @@
 ## I'm Aman
 
-_Learning JavaScript since birth_ 
-
 ![](https://komarev.com/ghpvc/?username=Aman-in-Github&style=flat-square&color=6495ED&label=Profile+Views)
 
 I'm a software developer. I create the best software in the world.
@@ -19,5 +17,7 @@ I'm a software developer. I create the best software in the world.
 - **Portfolio:** https://amanchand.com.np
 - **LinkedIn:** https://linkedin.com/in/amanchandinc
 - **Email:** amanchandinc@gmail.com
+
+_A generic motivation quote_
 
 ![Coding Mario](https://github.com/Aman-in-GitHub/Aman-in-Github/blob/main/coding_mario.gif)
