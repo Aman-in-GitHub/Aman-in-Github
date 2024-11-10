@@ -1,4 +1,4 @@
-## I'm Aman
+## I am Aman
 
 ![](https://komarev.com/ghpvc/?username=Aman-in-Github&style=flat-square&color=6495ED&label=Profile+Views)
 
