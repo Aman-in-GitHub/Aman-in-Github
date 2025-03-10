@@ -12,9 +12,8 @@ I'm a software developer. I create the best software in the world.
 
 ## 🌍 Find Me
 
-- **Portfolio:** https://amanchand.com.np
-- **LinkedIn:** https://linkedin.com/in/amanchandinc
 - **Email:** amanchandinc@gmail.com
+- **Portfolio:** https://amanchand.com.np
 
 _A generic motivation quote_
 
